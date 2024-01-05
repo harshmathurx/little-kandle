@@ -2,7 +2,8 @@
 const nextConfig = {
   reactStrictMode: true,
   images: {
-    domains: ['via.placeholder.com','assets.coingecko.com','content.drisk.io','lh3.googleusercontent.com']
+    domains: ['via.placeholder.com','assets.coingecko.com','content.drisk.io','lh3.googleusercontent.com'],
+    unoptimized: true
   }
 }
 
