@@ -1,0 +1,10 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="bolt">
+<mask id="mask0_143_514" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="24" height="25">
+<rect id="Bounding box" y="0.00012207" width="24" height="24" fill="#F6C621"/>
+</mask>
+<g mask="url(#mask0_143_514)">
+<path id="bolt_2" d="M8 22.0001L9 15.0001H4L13 2.00012H15L14 10.0001H20L10 22.0001H8Z" fill="#DBB42D"/>
+</g>
+</g>
+</svg>

@@ -12,6 +12,10 @@ module.exports = {
         'gradient-conic':
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
       },
+      gridTemplateColumns: {
+        sidebar: "200px auto",
+        "sidebar-collapsed": "64px auto",
+      },
     },
   },
   plugins: [],
